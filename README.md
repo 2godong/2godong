@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Welcome! -->
 
 <!--
 **2godong/2godong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=dff9fb&height=300&section=header&text=안녕%20ㅎ&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Speech&color=dff9fb&height=300&section=header&text=안녕%20ㅎ&fontSize=50)
