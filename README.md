@@ -14,4 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Speech&color=dff9fb&height=300&section=header&text=안녕%20ㅎ&fontSize=50)
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE8C1&height=180&section=header&text=2godong's%20Github🌿🐚&fontSize=40" /> -->
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,100:B5FFFC&height=230&section=header&text=2godong's%20GitHub&fontSize=50&fontAlignY=35" /> -->
+
+ <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=50:FFE8C1,50:E5BC89&height=230&section=header&text=2godong's%20GitHub&fontSize=50&fontAlignY=35&fontColor=white
+" />  -->
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=45" /> -->
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDEE9,100:B5FFFC&height=250&section=header&text=Sora's%20GitHub&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20my%20profile!&descSize=20&descAlignY=55" /> -->
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE8C1,100:E5BC89&height=230&section=header&text=2godong's%20GitHub&fontSize=50&fontColor=463C2F&fontAlignY=35&desc=%F0%9F%8C%BFWelcome%20to%20my%20GitHub!%F0%9F%90%9A&descSize=20&descAlignY=60" />
+
+
