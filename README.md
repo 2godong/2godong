@@ -29,4 +29,9 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE8C1,100:E5BC89&height=230&section=header&text=2godong's%20GitHub&fontSize=50&fontColor=463C2F&fontAlignY=35&desc=%F0%9F%8C%BFWelcome%20to%20my%20GitHub!%F0%9F%90%9A&descSize=20&descAlignY=60" />
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=2godong&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2godong&layout=compact)
+
+
+
 
